@@ -1,9 +1,9 @@
 {
   "name": "v-demo-tools",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "A tools project",
-  "main": "dist/ktools.cjs.js",
-  "module": "dist/ktools.esm.js",
+  "main": "dist/tools.cjs.js",
+  "module": "dist/tools.esm.js",
   "browser": "dist/index.js",
   "types": "./dist/index.d.ts",
   "scripts": {

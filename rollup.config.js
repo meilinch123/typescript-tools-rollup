@@ -24,7 +24,7 @@ export default [
   {
     input: 'src/index.ts',
     output: {
-      name: 'ktools',
+      name: 'tools',
       file: pkg.browser,
       format: 'umd',
       exports: 'auto'
